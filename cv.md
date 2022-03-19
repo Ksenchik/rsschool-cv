@@ -14,3 +14,30 @@ From 2005 to 2013 I worked in wholesale sales. From 2013 to the present I have b
 #### Skills
 ---
 HTML (basics), CSS (basics), JavaScript (basics).
+
+#### Code from codewars.com
+---
+
+
+```JS
+function maskify(cc) {
+  let i = 0;
+  let result = '';
+  while(i < cc.length-4){
+    result = `${result}${cc[i] = '#'}`;
+    i++;
+  }
+  return result + cc.slice(-4);
+}
+```
+
+#### Education
+---
+2014 International Institute of Economics and Law
+Sales training
+Training: effective sales
+
+ #### English language
+ ---
+ A1
+ 
