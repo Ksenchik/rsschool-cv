@@ -1,2 +1,2 @@
 ###### rsschool-cv
-https://github.io/Ksenchik/rsschool-cv
+https://Ksenchik/github.io/rsschool-cv/cv
